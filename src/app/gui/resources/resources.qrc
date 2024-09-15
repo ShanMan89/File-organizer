@@ -1,0 +1,11 @@
+<!-- src/app/gui/resources/resources.qrc -->
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/folder.png</file>
+        <!-- Add more icon files here -->
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles/dark_mode.qss</file>
+        <!-- Add more stylesheet files here -->
+    </qresource>
+</RCC>
