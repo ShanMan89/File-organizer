@@ -22,7 +22,7 @@ A powerful and user-friendly PyQt6-based File Organizer application designed to 
 1. Ensure you have Python 3.9 or higher installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/file-organizer.git
+   git clone https://github.com/ShanMan89/file-organizer.git
    cd file-organizer
    ```
 3. Install the required dependencies:
